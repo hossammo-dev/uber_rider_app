@@ -1,16 +1,3 @@
-# uber_rider_app
+# Uber - Rider App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![e9476723-ef20-4dad-ae45-f1e4feba3d9d](https://github.com/hossammo-dev/uber_rider_app/assets/75223134/9b07f65f-b374-4cc2-b7c1-4f74f16c6da5)
